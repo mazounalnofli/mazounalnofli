@@ -1,2 +1,3 @@
 # Hi! I'm Mazoun Alnofli
-## I have BA in economics, minors in international studies & political science
+  I have a Bachelor of Arts in Economics/Minors in International Studies & Political Science
+  
