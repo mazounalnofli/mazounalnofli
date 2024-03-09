@@ -1,5 +1,5 @@
 ## Hi! I'm Mazoun Alnofli
  * I have a Bachelor of Arts in Economics/Minors in International Studies & Political Science
- * I'm interested in data field
+ * I'm interested in data field :chart_with_downwards_trend:
  * I have experience in Data Analytics and Python (Programming Language
 
